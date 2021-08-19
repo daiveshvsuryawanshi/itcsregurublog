@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow: hidden;
+}
+h1{
+    text-align: center;
+    color: crimson;
+    margin-bottom: 12px;
+    font-size: 2.5rem;
+}
+p{
+    font-size: 1.2rem;
+}
+.yt{
+    margin-top: 22px;
+    text-align: center;
+}
+
+.post-img img{
+    border: 2px solid #111;
+}
